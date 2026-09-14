@@ -4,9 +4,11 @@ Static website for ads.steelscalesystems.com. No build step or runtime dependenc
 
 index.html  — Homepage: offer, system, process, fit, FAQ, and contact.
 results.html — Results library with 21 screenshots and category filters.
-styles.css  — Shared responsive styles for both pages.
+thank-you.html — Post-booking page with seven video placeholders and transcripts.
+styles.css  — Shared responsive styles for all pages.
 site.js     — Mobile navigation, filters, image preview, and copy-email enhancement.
 images/     — Existing screenshots, referenced by explicit filename.
+videos/     — Web-optimized pre-call videos used by thank-you.html.
 
 Booking links use https://calendly.com/kalpakisdev/demo-call.
 Email: carson@steelscalesystems.com
